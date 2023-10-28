@@ -13,3 +13,9 @@ accountPass = "09876"
 accountCity = "LA"
 
 console.table([accountEmail, accountPass, accountCity])
+
+// null => it is a standalone value and data type of null is object type
+console.log(typeof null);
+
+// undefined => type of undefined is undefined 
+console.log(typeof undefined);
